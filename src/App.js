@@ -14,7 +14,7 @@ function App() {
         </p>
       </div>
     </div>
-    <Footer className="fixed bottom-0 w-full" />
+    <Footer className="fixed bottom-0 w-full bg-[#f5f3f7]" />
   </main>
 }
 
